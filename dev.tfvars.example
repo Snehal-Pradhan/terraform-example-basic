@@ -1,0 +1,3 @@
+environment       = "dev"
+ssh_key_name      = "ssh-key-name"
+ssh_ingress_cidrs = ["x.x.x.x/32"]
